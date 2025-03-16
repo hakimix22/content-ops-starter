@@ -162,7 +162,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-  - subtitle: Award winning enterprises trust us
+  - subtitle: ''
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
