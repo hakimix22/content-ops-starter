@@ -112,7 +112,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/468544139_1077540757383991_8951037919953991237_n.jpg
