@@ -63,7 +63,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: ''
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
