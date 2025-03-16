@@ -192,6 +192,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 400
     type: ImageGallerySection
     title:
       type: TitleBlock
