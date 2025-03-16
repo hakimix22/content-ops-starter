@@ -12,6 +12,7 @@ sections:
       styles:
         self:
           fontWeight: 400
+          textAlign: left
     subtitle: ''
     text: >+
       <div style="text-align: left">équipé d’une télécommande portable, il n’y a
