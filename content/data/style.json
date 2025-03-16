@@ -17,7 +17,7 @@
     "h2": {
         "size": "2xl",
         "weight": "normal",
-        "decoration": "underline",
+        "decoration": "line-through",
         "case": "lowercase",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
