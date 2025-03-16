@@ -7,7 +7,7 @@ sections:
       text: >-
         Lampe solaire d'extérieur super lumineuse à LED, étanche, détecteur de
         mouvement
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
