@@ -16,7 +16,7 @@
     },
     "h2": {
         "size": "sm",
-        "weight": "bold",
+        "weight": "normal",
         "decoration": "none",
         "case": "lowercase",
         "letterSpacing": "normal",
