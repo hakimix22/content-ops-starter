@@ -11,14 +11,15 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      équipé d’une télécommande portable, il n’y a pas de boutons redondants et
-      la conception minimaliste est plus adaptée à votre usage - corps de lampe
-      entièrement scellé abs matières d’isolation en plastique, résistant
+      <div style="text-align: left">équipé d’une télécommande portable, il n’y a
+      pas de boutons redondants et la conception minimaliste est plus adaptée à
+      votre usage - corps de lampe entièrement scellé abs matières d’isolation
+      en plastique, résistant
 
       à la pluie, résistantes enneigées et résistantes au tonnerre, adaptées à
       toutes sortes de temps
 
-      trois modes d’éclairage
+      trois modes d’éclairage</div>
 
     actions:
       - label: Get started
