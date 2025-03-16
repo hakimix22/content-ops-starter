@@ -10,10 +10,32 @@ sections:
       color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      équipé d’une télécommande portable, il n’y a pas de boutons redondants et
+      la conception minimaliste est plus adaptée à votre usage - corps de lampe
+      entièrement scellé abs matières d’isolation en plastique, résistant
+
+      à la pluie, résistantes enneigées et résistantes au tonnerre, adaptées à
+      toutes sortes de temps
+
+      trois modes d’éclairage:
+
+
+      1.  la lampe est désactivée lorsqu’elle n’est pas à la distance de
+      détection;
+          sentez la lumière forte quand quelqu’un s’approche;
+          les gens à partir pendant 30 secondes et éteindre automatiquement la lumière;
+
+      2.  faible lumière quand personne ne vient, une forte lumière quand
+      quelqu’un s’approche;
+          les gens partent pendant 30 secondes et éteignent automatiquement la lumière;
+
+      3.  il est toujours automatiquement après la tombée de la nuit
+          il y a de la lumière, il y a de l’électricité, une planche de charge solaire. le travail en plein air absorbe
+          la lumière du soleil pour la charge, la protection de l’environnement et l’économie d’énergie
+          convient à l’éclairage extérieur et peut être largement utilisé dans les lumières de la cour, les lumières de garage, les feux de jardin, les lumières de parking, les lumières de sortie, les lumières d’entrée, les lumières
+          de l’allée, les lumières de la cour, les lumières d’entrée, etc.
+
     actions:
       - label: Get started
         altText: ''
