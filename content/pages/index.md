@@ -186,7 +186,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 400
-        fontStyle: italic
     title:
       type: TitleBlock
       text: ''
