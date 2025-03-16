@@ -9,7 +9,7 @@ sections:
         mouvement
       color: text-primary
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >+
       équipé d’une télécommande portable, il n’y a pas de boutons redondants et
       la conception minimaliste est plus adaptée à votre usage - corps de lampe
