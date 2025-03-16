@@ -18,13 +18,7 @@ sections:
       à la pluie, résistantes enneigées et résistantes au tonnerre, adaptées à
       toutes sortes de temps
 
-      trois modes d’éclairage:
-
-
-      1.
-
-
-      2.
+      trois modes d’éclairage
 
     actions:
       - label: Get started
