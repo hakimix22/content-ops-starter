@@ -64,7 +64,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/468174873_601482875645511_2286386363532896641_n.jpg
