@@ -163,8 +163,8 @@ sections:
       text: ''
       color: text-dark
   - subtitle: >-
-      Caractéristiques:Batterie: 4500mAh 18650 * 3temps de fonctionnement:
-      environ 2 heures de lumière constante; 12 heures d’induction du corps
+      Caractéristiques:Batterie4500mAh 18650 * 3temps de fonctionnement: environ
+      2 heures de lumière constante; 12 heures d’induction du corps
       humainMatériel Produit: Abs + pstaille du produit: 165 x 45 x 615 mm
       (déplié)Poids du Produit: 1241gEmballage inclus:1 X Lumière Solaire 1 X
       Télécommande 1 X Vis Pack Autres Articles Non Inclus
