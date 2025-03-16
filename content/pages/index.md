@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 700
+          fontWeight: 400
     subtitle: ''
     text: >+
       <div style="text-align: left">équipé d’une télécommande portable, il n’y a
