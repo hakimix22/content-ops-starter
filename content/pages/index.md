@@ -89,7 +89,7 @@ sections:
               - pr-0
             textAlign: left
             borderRadius: small
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
       - type: FeaturedItem
         title: ''
