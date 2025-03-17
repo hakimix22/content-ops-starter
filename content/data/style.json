@@ -23,7 +23,7 @@
         "type": "ThemeStyleHeading"
     },
     "h3": {
-        "size": "xs",
+        "size": "sm",
         "weight": "normal",
         "decoration": "none",
         "case": "none",
