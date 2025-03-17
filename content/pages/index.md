@@ -140,7 +140,7 @@ sections:
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
-        title: ùmm
+        title: ''
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
