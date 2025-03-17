@@ -186,7 +186,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 400
+        fontWeight: 700
     title:
       type: TitleBlock
       text: ''
