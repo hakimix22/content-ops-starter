@@ -93,6 +93,7 @@ sections:
             justifyContent: center
             borderColor: border-light
             borderWidth: 2
+            borderStyle: solid
       - type: FeaturedItem
         title: ''
         subtitle: ''
