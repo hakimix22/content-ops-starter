@@ -91,6 +91,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+            borderColor: border-light
       - type: FeaturedItem
         title: ''
         subtitle: ''
