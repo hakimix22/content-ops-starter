@@ -92,6 +92,7 @@ sections:
             flexDirection: col
             justifyContent: center
             borderColor: border-light
+            borderWidth: 2
       - type: FeaturedItem
         title: ''
         subtitle: ''
