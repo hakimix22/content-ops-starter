@@ -174,7 +174,7 @@ sections:
         elementId: ''
         type: Button
     elementId: ''
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
