@@ -88,7 +88,7 @@ sections:
               - pb-0
               - pr-0
             textAlign: left
-            borderRadius: small
+            borderRadius: none
             flexDirection: col
             justifyContent: center
       - type: FeaturedItem
