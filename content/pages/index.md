@@ -64,6 +64,42 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - subtitle: "Caractéristiques :\_ Batterie 4500 mAh 18650 x 3 - temps de fonctionnement : environ 2 heures de lumière constante -12 heures d’induction du corps humain.                           Matériel Produit: Abs + ps  -taille du produit: 165 x 45 x 615 mm (déplié) - Poids du Produit: 1241g  -  Emballage inclus:1 X Lumière Solaire   - 1 x Télécommande - 1 X Vis Pack Autres Articles Non Inclus                       "
+    images:
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/wellster-logo.svg
+        altText: Wellster logo
+        type: ImageBlock
+      - url: /images/vise-logo.svg
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/telus-logo.svg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/sanity-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/rangle-logo.svg
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+        fontWeight: 400
+    type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
   - type: FeaturedItemsSection
     subtitle: "la lampe est désactivée lorsqu’elle n’est pas à la distance de détection,\_sentez la lumière forte quand quelqu’un s’approche, les gens à partir pendant 30 secondes et éteindre automatiquement la lumière. faible lumière quand personne ne vient, une forte lumière quand quelqu’un s’approche les gens partent pendant 30 secondes et éteignent automatiquement la lumière . il est toujours automatiquement après la tombée de la nuit il y a de la lumière, il y a de l’électricité, une planche de charge solaire. le travail en plein air absorbe\_la lumière du soleil pour la charge, la protection de l’environnement et l’économie d’énergieconvient à l’éclairage extérieur et peut être largement utilisé dans les lumières de la cour, les lumières de garage, les feux de jardin, les lumières de parking, les lumières de sortie, les lumières d’entrée, les lumières\_de l’allée, les lumières de la cour, les lumières d’entrée."
     items:
@@ -198,42 +234,6 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-  - subtitle: "Caractéristiques :\_ Batterie 4500 mAh 18650 x 3 - temps de fonctionnement : environ 2 heures de lumière constante -12 heures d’induction du corps humain.                           Matériel Produit: Abs + ps  -taille du produit: 165 x 45 x 615 mm (déplié) - Poids du Produit: 1241g  -  Emballage inclus:1 X Lumière Solaire   - 1 x Télécommande - 1 X Vis Pack Autres Articles Non Inclus                       "
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-        fontWeight: 400
-    type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
