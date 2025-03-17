@@ -191,6 +191,13 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - subtitle: "Caractéristiques :\_ Batterie 4500 mAh 18650 x 3 - temps de fonctionnement : environ 2 heures de lumière constante -12 heures d’induction du corps humain.                           Matériel Produit: Abs + ps  -taille du produit: 165 x 45 x 615 mm (déplié) - Poids du Produit: 1241g  -  Emballage inclus:1 X Lumière Solaire   - 1 x Télécommande - 1 X Vis Pack Autres Articles Non Inclus                       "
     images:
       - url: /images/empathy-logo.svg
