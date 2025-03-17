@@ -144,7 +144,6 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/468536289_1086687616488769_4057551767913692394_n.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
