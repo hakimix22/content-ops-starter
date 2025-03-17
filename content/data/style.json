@@ -41,7 +41,7 @@
     "h5": {
         "size": "xs",
         "weight": "normal",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
