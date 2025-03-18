@@ -168,7 +168,11 @@ sections:
             justifyContent: center
     actions:
       - label: Get started
-        altText: ''
+        altText: >-
+          // Example SMS API call$phone = $_POST['phone'];$message = "Merci!
+          Votre commande COD sera livrée à $commune, $wilaya.";$sms_url =
+          "https://sms-api.djezzy.dz/send?number=$phone&message=" .
+          urlencode($message);file_get_contents($sms_url);
         url: /
         showIcon: false
         icon: arrowRight
